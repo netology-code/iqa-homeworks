@@ -21,8 +21,3 @@
 Что нужно сделать:
 1. Пройти тест по ссылке и найти все 18 багов: http://testingchallenges.thetestingmap.org/index.php;
 2. Отправить в качестве решения скриншот окна с готовым решением.
-
-
-Вам необходимо протестировать анкету: https://alfabank-form-for-testing.herokuapp.com/ 
-Вам нужно подготовить тестовую модель, написать тестовые сценарии. 
-При написании тестовых сценариев нужно использовать практики тест дизайна. Сценарии используем по шаблону: https://docs.google.com/spreadsheets/d/1-BlHd-7FQDLtN8tQaUCKDsNi_Pb3abq0hLRhsTMyjdY/edit#gid=0
