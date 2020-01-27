@@ -5,7 +5,7 @@
 Задача:
 * Протестируйте анкету с использованием тестовых сценариев;
 
-* Заведите найденные дефекты строго по шаблону: https://docs.google.com/spreadsheets/d/1XEp68A7TweG7TXfJgyz9Dk62cut7MOT428IiZVpMKfU/edit?usp=sharing
+* Заведите найденные дефекты строго по шаблону: https://docs.google.com/spreadsheets/d/15k7gRQQihGYLhiCQw9iWmWzR5dm9VdBD2OU9dS19-bk/edit?usp=sharing
 (создайте копию файла и заполните его).
 
 Результат задания: ссылка на Google-таблицу с заведенными дефектами. 
