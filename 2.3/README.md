@@ -6,7 +6,7 @@
 ## Что нужно сделать:
 * Протестируйте анкету с использованием тестовых сценариев(тест кейсов);
 
-* Заведите найденные дефекты строго по шаблону: https://docs.google.com/spreadsheets/d/15k7gRQQihGYLhiCQw9iWmWzR5dm9VdBD2OU9dS19-bk/edit?usp=sharing
+* Заведите найденные дефекты используя шаблон: https://docs.google.com/spreadsheets/d/15k7gRQQihGYLhiCQw9iWmWzR5dm9VdBD2OU9dS19-bk/edit?usp=sharing
 (создайте копию файла и заполните его).
 
 Результат задания: ссылка на Google-таблицу с заведенными дефектами. 
