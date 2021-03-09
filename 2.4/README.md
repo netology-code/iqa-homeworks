@@ -1,6 +1,6 @@
 # Домашнее задание к занятию 2.4. «Инструменты тестирования. Клиент-Сервер»
 
-Инструкции по установке Postman, Jmeter и BlazeMeter - [здесь.](https://docs.google.com/document/d/1gtD26k7OASya63UaQ4kg8yAjTcfkeBJu_t-NDxaPmpY/edit?usp=sharing)
+Инструкции по установке Postman, Jmeter и BlazeMeter - [здесь](https://docs.google.com/document/d/1gtD26k7OASya63UaQ4kg8yAjTcfkeBJu_t-NDxaPmpY/edit?usp=sharing).
 
 ## Задание 1
 
@@ -9,7 +9,7 @@
 Ссылка на анкету - http://zayavka-na-kartu-3.sdew.ru/
 
 Мы знаем, что есть специальный инструмент, при помощи которого мы можем проверить нагрузку – [JMeter](https://jmeter.apache.org/)
-Обратите внимание, что Java мы ставим строго по инструкции [отсюда](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md) , для того, чтобы далее в обучении не было конфликтов версий.
+Обратите внимание, что Java мы ставим строго по инструкции [отсюда](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md) для того, чтобы далее в обучении не было конфликтов версий.
 
 Задача:
 * При помощи JMeter создайте один профиль нагрузки (на выбор, объяснить выбор) из рассмотренных на лекции.
