@@ -9,13 +9,13 @@
 <img width="639" alt="Screenshot at Mar 24 17-55-52" src="https://user-images.githubusercontent.com/43470121/112331703-35461580-8cca-11eb-9056-07e59a46b1a7.png">
 
 Ниже приведено описание каталогов JMeter и его важность. Каталог JMeter содержит много файлов и каталогов.
-/ bin : содержит файл сценария JMeter для запуска JMeter
-/ docs : файлы документации JMeter
-/ extras : дополнительные файлы, связанные с ant
-/ lib /: содержит необходимую библиотеку Java для JMeter
-/ lib / ext : содержит основные файлы jar для JMeter и протоколы
-/ lib / junit : библиотека Junit, используемая для JMeter
-/ printable_docs :
+ - / bin : содержит файл сценария JMeter для запуска JMeter
+ - / docs : файлы документации JMeter
+ - / extras : дополнительные файлы, связанные с ant
+ - / lib /: содержит необходимую библиотеку Java для JMeter
+ - / lib / ext : содержит основные файлы jar для JMeter и протоколы
+ - / lib / junit : библиотека Junit, используемая для JMeter
+ - / printable_docs :
  
 5. Для запуска запустите файл /bin/jmeter.bat, чтобы запустить JMeter в режиме графического интерфейса.
 
