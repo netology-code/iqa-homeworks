@@ -5,7 +5,7 @@
 3. Выбираем файл Binaries (zip или tgz) для загрузки, как показано на рисунке ниже.
 <img width="519" alt="Screenshot at Mar 24 17-54-39" src="https://user-images.githubusercontent.com/43470121/112331545-0def4880-8cca-11eb-8643-803da1ae4647.png">
 
-4. Распаковываем папку с JMeter в директорию без пробелов в имени (т.е. точно не Program Files). Лучше прямо создать специальную папку. После распаковки будет примерно такой результат:
+4. Распаковываем (почитать о распаковке https://open-file.ru/types/tgz или https://open-file.ru/types/zip) папку с JMeter в директорию без пробелов в имени (т.е. точно не Program Files). Лучше прямо создать специальную папку. После распаковки будет примерно такой результат:
 <img width="639" alt="Screenshot at Mar 24 17-55-52" src="https://user-images.githubusercontent.com/43470121/112331703-35461580-8cca-11eb-9056-07e59a46b1a7.png">
 
  - / bin : содержит файл сценария JMeter для запуска JMeter
@@ -16,7 +16,8 @@
  - / lib / junit : библиотека Junit, используемая для JMeter
  - / printable_docs :
  
-5. Для запуска запустите файл /bin/jmeter.bat, чтобы запустить JMeter в режиме графического интерфейса.
+5. Для запуска запустите файл /bin/jmeter.bat, чтобы запустить JMeter в режиме графического интерфейса. В некоторых системах он будет в интерфейсе без расширения, вам нужен пакетный файл.
+<img width="649" alt="Screenshot at Mar 24 17-56-23" src="https://www.seleniumeasy.com/sites/default/files/pictures/jmeter/JMeter_batch_file.jpg">
 
 <img width="649" alt="Screenshot at Mar 24 17-56-23" src="https://user-images.githubusercontent.com/43470121/112331773-4858e580-8cca-11eb-965e-ae3c023e2f3e.png">
 
