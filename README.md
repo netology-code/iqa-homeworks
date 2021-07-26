@@ -6,7 +6,7 @@
 
 1.2. [Основы клиент-серверного взаимодействия](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/1.2/)
 
-1.3. [Тестирование ПО. Многообразие тестирования](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/1.3/)
+1.3. [Тестирование ПО. Тест-дизайн](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/1.3/)
 
 ### 2. Практика
 
