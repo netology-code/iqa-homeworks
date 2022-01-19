@@ -1,6 +1,10 @@
 # Jmeter
 ## Windows
-1. Устанавливаем Java по инструкции отсюда: https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md . Обратите внимание, что инструкция по работе с терминалом есть в конце этой страницы, а версия Java должна быть 11, но не обязательно точно 11.0.5, 11.0.7 тоже подойдет.
+1. Устанавливаем Java по инструкции отсюда: https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md .
+ Обратите внимание, что инструкция по работе с терминалом есть в конце этой страницы, а версия Java должна быть 11, но не обязательно точно 11.0.5, 11.0.7 тоже подойдет.
+
+**Если при установке или вводе команды java -version возникает ошибка в терминале, вам нужно скопировать ее и поискать решение конкретной проблемы в Google для вашей операционной системы.**
+
 2. Устанавливаем Jmeter. Переходим на страницу https://jmeter.apache.org/download_jmeter.cgi .
 3. Выбираем файл Binaries (zip или tgz) для загрузки, как показано на рисунке ниже.
 <img width="519" alt="Screenshot at Mar 24 17-54-39" src="https://user-images.githubusercontent.com/43470121/112331545-0def4880-8cca-11eb-8643-803da1ae4647.png">
