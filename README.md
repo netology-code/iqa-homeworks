@@ -10,9 +10,9 @@
 
 ### 2. Практика
 
-2.1. [Артефакты тестирования. Дефекты](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/2.1/)
+2.1. [Артефакты тестирования. Тестовая документация](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/2.2/)
 
-2.2. [Артефакты тестирования. Тестовая документация](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/2.2/)
+2.2.[Артефакты тестирования. Дефекты](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/2.1/)
 
 2.3. [Инструменты тестирования для работы с документацией](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/2.3)
 
