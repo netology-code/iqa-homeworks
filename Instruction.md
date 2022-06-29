@@ -31,7 +31,7 @@
 
 
 1. Устанавливаем Java по [инструкции](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md).
-2. Устанавливаем Jmeter. Для этого переходим на страницу для загрузки. https://jmeter.apache.org/download_jmeter.cgi .
+2. Устанавливаем Jmeter. Для этого переходим на [страницу для загрузки](https://jmeter.apache.org/download_jmeter.cgi).
 3. Выбираем файл Binaries (zip или tgz) для загрузки, как показано на рисунке ниже.
 <img width="660" alt="Screenshot at Mar 24 17-57-30" src="https://user-images.githubusercontent.com/43470121/112331980-6cb4c200-8cca-11eb-8c1b-9a8313004fa5.png">
 
