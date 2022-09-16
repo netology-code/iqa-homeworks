@@ -5,7 +5,7 @@
 
 **Если при установке или вводе команды Java version возникает ошибка в терминале, вам нужно скопировать её и поискать решение конкретной проблемы для вашей операционной системы в Google.**
 
-2. Устанавливаем Jmeter. Переходим на страницу https://jmeter.apache.org/download_jmeter.cgi.
+2. Устанавливаем JMeter. Переходим на страницу https://jmeter.apache.org/download_jmeter.cgi.
 3. Выбираем файл Binaries (zip или tgz) для загрузки, как показано на рисунке ниже.
 <img width="519" alt="Screenshot at Mar 24 17-54-39" src="https://user-images.githubusercontent.com/43470121/112331545-0def4880-8cca-11eb-8643-803da1ae4647.png">
 
@@ -27,7 +27,7 @@
 
 
  
-## Для MacOS
+## Для macOS
 
 
 1. Устанавливаем Java по [инструкции](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md).
