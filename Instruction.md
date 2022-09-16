@@ -12,13 +12,13 @@
 4. Распаковываем папку с JMeter в директорию без пробелов в имени (то есть точно не Program Files). Лучше создать специальную папку. Почитать о распаковке можно [здесь](https://open-file.ru/types/tgz) или [здесь](https://open-file.ru/types/zip). После распаковки будет примерно такой результат:
 <img width="639" alt="Screenshot at Mar 24 17-55-52" src="https://user-images.githubusercontent.com/43470121/112331703-35461580-8cca-11eb-9056-07e59a46b1a7.png">
 
- - / bin: содержит файл сценария JMeter для запуска JMeter;
- - / docs: файлы документации JMeter;
- - / extras: дополнительные файлы, связанные с ant;
- - / lib /: содержит необходимую библиотеку Java для JMeter;
- - / lib / ext: содержит основные файлы JAR для JMeter и протоколы;
- - / lib / junit: библиотека JUnit, используемая для JMeter;
- - / printable_docs:
+ - / bin : содержит файл сценария JMeter для запуска JMeter;
+ - / docs : файлы документации JMeter;
+ - / extras : дополнительные файлы, связанные с ant;
+ - / lib / : содержит необходимую библиотеку Java для JMeter;
+ - / lib / ext : содержит основные файлы JAR для JMeter и протоколы;
+ - / lib / junit : библиотека JUnit, используемая для JMeter;
+ - / printable_docs :
  
 5. Запускаем файл /bin/jmeter.bat, чтобы запустить JMeter в режиме графического интерфейса. В некоторых системах он будет в интерфейсе без расширения, вам нужен пакетный файл.
 <img width="649" alt="Screenshot at Mar 24 17-56-23" src="https://www.seleniumeasy.com/sites/default/files/pictures/jmeter/JMeter_batch_file.jpg">
