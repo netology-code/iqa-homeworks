@@ -1,6 +1,6 @@
 # Домашнее задание к занятию «2.4. Инструменты тестирования. Клиент-сервер»
 
-Инструкции по установке Postman, JMeter и BlazeMeter и запуску Terminal — [здесь](https://github.com/netology-code/iqa-homeworks/blob/iqa-12/Instruction.md).
+[Инструкции по установке Postman, JMeter и BlazeMeter и запуску Terminal](https://github.com/netology-code/iqa-homeworks/blob/iqa-12/Instruction.md).
 
 ## Задание 1
 
