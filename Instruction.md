@@ -59,5 +59,5 @@
 
 
 ### Terminal
-Если возникают вопросы о том, что такое Terminal и как его запустить, об этом можно почитать [тут](http://students.njay.ru/article/Rabota-v-terminale-v-Windows-Linux-i-MacOS-cli-shell-bash-cmd).
+Если возникают вопросы о том, что такое Terminal(командная строка) и как его запустить, об этом можно почитать [тут]([http://students.njay.ru/article/Rabota-v-terminale-v-Windows-Linux-i-MacOS-cli-shell-bash-cmd](https://windows-school.ru/blog/kak_otkryt_komandnuju_stroku/2018-11-29-245).
  
