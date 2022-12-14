@@ -59,5 +59,5 @@
 
 
 ### Terminal
-Если возникают вопросы о том, что такое Terminal(командная строка) и как его запустить, об этом можно почитать [тут] (https://windows-school.ru/blog/kak_otkryt_komandnuju_stroku/2018-11-29-245).
+Если возникают вопросы о том, что такое Terminal(или командная строка) и как его запустить, об этом можно почитать [тут](https://windows-school.ru/blog/kak_otkryt_komandnuju_stroku/2018-11-29-245).
  
