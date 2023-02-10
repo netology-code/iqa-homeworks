@@ -1,7 +1,5 @@
 # Домашние задания к курсу «Введение в тестирование»
 
-### 1. Теория
-
 1. [Введение в тестирование ПО. Методы и виды тестирования](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/1.1/).
 
 4. [Тестирование ПО. Тест-дизайн](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/1.3/).
