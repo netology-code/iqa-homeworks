@@ -2,20 +2,20 @@
 
 ### 1. Теория
 
-1.1. [Введение в тестирование ПО. Методы и виды тестирования](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/1.1/).
+1. [Введение в тестирование ПО. Методы и виды тестирования](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/1.1/).
 
-1.2. [Основы клиент-серверного взаимодействия](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/1.2/).
+4. [Тестирование ПО. Тест-дизайн](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/1.3/).
 
-1.3. [Тестирование ПО. Тест-дизайн](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/1.3/).
+6. [Артефакты тестирования. Тестовая документация](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/2.2/).
 
-### 2. Практика
+7. [Артефакты тестирования. Дефекты](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/2.1/).
 
-2.1. [Артефакты тестирования. Тестовая документация](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/2.2/).
+9. [Инструменты тестирования для работы с документацией](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/2.3).
 
-2.2. [Артефакты тестирования. Дефекты](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/2.1/).
+10. [Основы клиент-серверного взаимодействия](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/1.2/).
 
-2.3. [Инструменты тестирования для работы с документацией](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/2.3).
+11. [Особенности тестирования web-приложений и работа с Chrome]()
 
-2.4. [Инструменты тестирования. Клиент-сервер](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/2.4).
+13. [Инструменты тестирования. Клиент-сервер](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/2.4).
 
-2.5. [Жизненный цикл разработки ПО. Гибкие методологии разработки ПО](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/2.5/).
+14. [Жизненный цикл разработки ПО. Гибкие методологии разработки ПО](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/2.5/).
