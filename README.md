@@ -12,7 +12,7 @@
 
 10. [Основы клиент-серверного взаимодействия](https://github.com/netology-code/iqa-homeworks/tree/iqa-64/hw-10).
 
-11. [Особенности тестирования web-приложений и работа с Chrome]()
+11. [Особенности тестирования web-приложений и работа с Chrome](https://github.com/netology-code/iqa-homeworks/tree/iqa-64/hw-11)
 
 13. [Инструменты тестирования. Клиент-сервер](https://github.com/netology-code/iqa-homeworks/tree/iqa-64/hw-13).
 
