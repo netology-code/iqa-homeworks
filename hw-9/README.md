@@ -24,9 +24,9 @@
 
 ## Что нужно сделать
 
-1. Откройте [папку] (https://drive.google.com/file/d/1YazdCNbq2zRKVu2E3UhmTMFgvDQbuse8/view?usp=share_link) со скриншотами.
+1. Откройте [папку](https://drive.google.com/file/d/1YazdCNbq2zRKVu2E3UhmTMFgvDQbuse8/view?usp=share_link) со скриншотами.
 2. Проанализируйте скриншоты на наличие бага. 
-3. Перейдите по [ссылке] (https://docs.google.com/document/d/1TjcBgMmVtcfKdqr2FaHSxG9ZGNXdLaf1Cdz_qUrUZlA/edit?usp=sharing) и создайте свою Jira.
+3. Перейдите по [ссылке](https://docs.google.com/document/d/1TjcBgMmVtcfKdqr2FaHSxG9ZGNXdLaf1Cdz_qUrUZlA/edit?usp=sharing) и создайте свою Jira.
 4. Создайте баг-репорт(ы) на основе вышеуказанных скриншотов.
 
 Результат задания: созданные баг-репорты на ресурсе atlassian.com в виде скриншотов, вставленных в файл Google Docs, который вы создадите. 
