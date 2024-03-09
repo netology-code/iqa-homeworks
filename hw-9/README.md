@@ -26,7 +26,7 @@
 
 1. Откройте [папку](https://drive.google.com/drive/folders/1qDs4XP74-Zq_S7k28l12EHe5coowlfNd?usp=share_link) со скриншотами.
 2. Проанализируйте скриншоты на наличие бага. 
-3. Перейдите по [ссылке](https://docs.google.com/document/d/1TjcBgMmVtcfKdqr2FaHSxG9ZGNXdLaf1Cdz_qUrUZlA/edit?usp=sharing) и создайте свою Jira.
+3. Перейдите по [ссылке](https://u.netology.ru/backend/uploads/lms/content_assets/file/1819/%D0%9A%D0%B0%D0%BA_%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B2_Jira.docx) и создайте свою Jira.
 4. Создайте баг-репорт(ы) на основе вышеуказанных скриншотов.
 
 Результат задания: созданные баг-репорты на ресурсе atlassian.com в виде скриншотов, вставленных в файл Google Docs, который вы создадите. 
